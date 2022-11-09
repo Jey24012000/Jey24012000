@@ -2,7 +2,7 @@
 
 👀 Conociéndome...
 
-Soy una persona un poco introvertida, con muchas ganas de aprender y ser todo un React Developer. El chiste es nunca rendirse y seguir trabajando día con día para
+Soy una persona un poco introvertida, con muchas ganas de aprender y ser todo un Golang Developer. El chiste es nunca rendirse y seguir trabajando día con día para
 lograrlo.
 - Me gusta el futbol soccer.
 - 🎵 Me gusta mucho escuchar rock, a Luis Miguel y música en inglés de cualquier género.
@@ -11,15 +11,15 @@ lograrlo.
 
 
 Skills
-- HTML 5
-- CSS
-- JavaScript
-- SQL
-- Ingles B1 en Writing y Reading
-- Analítico
-- Responsable
-- Trabajo en equipo
-- Optimista
+- Desarrollo Web (HTML5, CSS, JS)
+- Postgresql
+- Golang
+- Gorm
+- Consumo de API REST
+- Postman
+- Docker
+- Git
+- Jira
 
 
 
