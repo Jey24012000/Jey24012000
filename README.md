@@ -12,6 +12,7 @@ lograrlo.
 
 Skills
 - Desarrollo Web (HTML5, CSS, JS)
+- Angular
 - Postgresql
 - Golang
 - Gorm
