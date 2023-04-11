@@ -1,8 +1,8 @@
-👋 ¡Hola!, Mi nombre es Martínez Hernández José Luis, tengo 22 años y soy del municipio de Ixhuatlán de Madero, Veracruz, México 🇲🇽
+👋 ¡Hola!, Mi nombre es Martínez Hernández José Luis, tengo 23 años y soy del municipio de Ixhuatlán de Madero, Veracruz, México 🇲🇽
 
 👀 Conociéndome...
 
-Soy una persona un poco introvertida, con muchas ganas de aprender y ser todo un Golang Developer. El chiste es nunca rendirse y seguir trabajando día con día para
+Soy una persona un poco introvertida, con muchas ganas de aprender y ser todo un Backend Developer. El chiste es nunca rendirse y seguir trabajando día con día para
 lograrlo.
 - Me gusta el futbol soccer.
 - 🎵 Me gusta mucho escuchar rock, a Luis Miguel y música en inglés de cualquier género.
@@ -14,13 +14,17 @@ Skills
 - Desarrollo Web (HTML5, CSS, JS)
 - Angular
 - Postgresql
-- Golang
-- Gorm
-- Consumo de API REST
+- MySQL
+- Java 8+ 
+- Spring-boot
+- JPA
+- Maven
+- Tomcat
 - Postman
 - Docker
 - Git
 - Jira
+- Marco de trabajo ágil Scrum
 
 
 
