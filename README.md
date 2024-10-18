@@ -1,4 +1,4 @@
-👋 ¡Hola!, Mi nombre es Martínez Hernández José Luis, tengo 24 años y soy del municipio de Ixhuatlán de Madero, Veracruz, México 🇲🇽;
+👋 ¡Hola!, Mi nombre es Martínez Hernández José Luis, tengo 24 años y soy del municipio de Ixhuatlán de Madero, Veracruz, México 🇲🇽.
 
 Actualmente me estoy especializando en tecnologías mainframe.
 
@@ -12,6 +12,7 @@ Skills✨
 - CHANGEMAN
 
 También cuento con conocimientos usando tecnologías de desarrollo web.
+
 Por el lado del backend🐳
 Java | Spring Boot | Spring Web | Spring Data JPA | Consultas a bases SQL | API's | JUnit |
 
