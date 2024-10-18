@@ -1,30 +1,24 @@
-👋 ¡Hola!, Mi nombre es Martínez Hernández José Luis, tengo 23 años y soy del municipio de Ixhuatlán de Madero, Veracruz, México 🇲🇽
+👋 ¡Hola!, Mi nombre es Martínez Hernández José Luis, tengo 24 años y soy del municipio de Ixhuatlán de Madero, Veracruz, México 🇲🇽;
 
-👀 Conociéndome...
+Actualmente me estoy especializando en tecnologías mainframe.
 
-Soy una persona un poco introvertida, con muchas ganas de aprender y ser todo un Full Stack Developer. El chiste es nunca rendirse y seguir trabajando día con día para
-lograrlo.
-- Me gusta el futbol soccer.
-- 🎵 Me gusta mucho escuchar rock, a Luis Miguel y música en inglés de cualquier género.
-- 📚 Me gusta leer temas de distopía, como un "Mundo Felíz" de Aldous Huxley.
+Skills✨
+- TSO/ISPF
+- COBOL
+- JCL
+- DB2
+- CICS
+- CONTROL-M
+- CHANGEMAN
+
+También cuento con conocimientos usando tecnologías de desarrollo web.
+Por el lado del backend🐳
+Java | Spring Boot | Spring Web | Spring Data JPA | Consultas a bases SQL | API's | JUnit |
+
+Por el lado del frontend😎
+Angular | HTML | CSS | TypeScript
 
 
-
-Skills
-- Desarrollo Web (HTML5, CSS, JS)
-- Angular
-- Postgresql
-- MySQL
-- Java 8+ 
-- Spring-boot
-- JPA
-- Maven
-- Tomcat
-- Postman
-- Docker
-- Git
-- Jira
-- Marco de trabajo ágil Scrum
 
 
 
